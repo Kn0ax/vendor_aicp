@@ -5,6 +5,7 @@ _apart from the default AOSP settings..._
 - Ability to change the device host-name for WiFi connections
 - Ability to change the hosts file to block ads
 - Access to the built-in AOSP SystemUI tuner features
+- ADB over network option
 - Adjust number of notifications on Lock-screen
 - Adjust volume dialog timeout
 - Adjustable actions for hardware buttons (including "kill app")
